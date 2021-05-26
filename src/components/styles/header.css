@@ -1,7 +1,8 @@
 .header-background{
     background-color: #007fff;
     height:100px;
-    justify-items: center;
+    display:flex;
+    justify-content:space-between;
 }
 .header-text{
     color: white;

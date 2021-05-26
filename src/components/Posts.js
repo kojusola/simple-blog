@@ -7,6 +7,7 @@ import './styles/posts.css';
     
 export default function Posts() {
     const [posts] = useContext(PostContext)
+    // console.log(sessionStorage.getItem('accessJWT'));
   return (
     <div>
     <Header/>

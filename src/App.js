@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter } from "react-router-dom";
-import Page from "./components/Page";
+import Page from "./Routes";
 import {PostsProvider} from "./PostsContext"
  
 function App() {
